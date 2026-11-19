@@ -7,7 +7,7 @@ neptun: NEPTUN
 
 > **Test participants are AI-simulated** (instructor-approved). See [SIMULATED-PARTICIPANTS.md](../../project/docs/research/SIMULATED-PARTICIPANTS.md).
 
-**Figma file:** FIGMA_LINK (pages "HW09 – Design system" and "HW09 – Handoff")
+**Figma file:** FIGMA_LINK (page "HW08–HW09 · UI guideline & design system", sections "HW09 – Design system" and "HW09 – Handoff")
 
 ## What was completed
 

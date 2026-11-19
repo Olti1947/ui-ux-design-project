@@ -5,7 +5,7 @@ neptun: NEPTUN
 
 # HW04 – Problem definition and opportunity search
 
-**FigJam board:** FIGJAM_LINK (section "HW04 – Problem definition")
+**FigJam board:** [HW04 – Problem definition](https://www.figma.com/board/W4Gs0oGtEFQ4dl8Rn5Tapv/UX-UI-2026-TechTok-Research-boards?node-id=3-343)
 
 ## What was completed
 

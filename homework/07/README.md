@@ -7,7 +7,7 @@ neptun: NEPTUN
 
 > **The tester is AI-simulated** (instructor-approved). See [SIMULATED-PARTICIPANTS.md](../../project/docs/research/SIMULATED-PARTICIPANTS.md).
 
-**Figma prototype:** FIGMA_PROTOTYPE_LINK (starting point `01 Today / card`)
+**Figma prototype:** [Main task – v1](https://www.figma.com/proto/TLbUCP4baTpzxXn01RrSLI/UX-UI-2026-TechTok-Design?node-id=4-81&starting-point-node-id=4%3A81) · [frames](https://www.figma.com/design/TLbUCP4baTpzxXn01RrSLI/UX-UI-2026-TechTok-Design?node-id=4-78) (starting point `v1 / 01 Today / card 1`)
 
 ## What was completed
 

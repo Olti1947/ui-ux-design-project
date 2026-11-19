@@ -7,7 +7,9 @@ neptun: NEPTUN
 
 > **Test participants are AI-simulated** (instructor-approved). See [SIMULATED-PARTICIPANTS.md](../../project/docs/research/SIMULATED-PARTICIPANTS.md). The contrast values in the guideline are calculated, not simulated.
 
-**Updated prototype (v3):** FIGMA_PROTOTYPE_LINK · **UI guideline:** FIGMA_LINK (page "HW08 – UI guideline")
+**Updated prototype (v3):** [Main task – v3](https://www.figma.com/proto/TLbUCP4baTpzxXn01RrSLI/UX-UI-2026-TechTok-Design?node-id=4-430&starting-point-node-id=4%3A430) · [frames](https://www.figma.com/design/TLbUCP4baTpzxXn01RrSLI/UX-UI-2026-TechTok-Design?node-id=4-427) · **UI guideline:** FIGMA_LINK (page "HW08–HW09 · UI guideline & design system")
+
+> Prototype versions: v1 (HW07) and v3 (after HW08) are kept as separate copies. The tested v2 differed from v1 only in three HW07 fixes (whole card tappable, progress "18 left today", 48 px Next button) and was not kept as its own copy, because the Figma Starter plan allows only 3 pages per file.
 
 ## What was completed
 

@@ -5,7 +5,7 @@ neptun: NEPTUN
 
 # HW10 – Project presentation
 
-**Slides:** [presentation/10-01/presentation.md](../../presentation/10-01/presentation.md) · **Final prototype:** FIGMA_PROTOTYPE_LINK
+**Slides:** [presentation/10-01/presentation.md](../../presentation/10-01/presentation.md) · **Final prototype:** [Main task – v3](https://www.figma.com/proto/TLbUCP4baTpzxXn01RrSLI/UX-UI-2026-TechTok-Design?node-id=4-430&starting-point-node-id=4%3A430)
 
 ## What was completed
 

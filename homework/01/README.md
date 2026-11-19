@@ -5,7 +5,7 @@ neptun: NEPTUN
 
 # HW01 – Finding an idea and exploring the problem
 
-**FigJam board:** FIGJAM_LINK (section "HW01 – Problem exploration")
+**FigJam board:** [HW01 – Problem exploration](https://www.figma.com/board/W4Gs0oGtEFQ4dl8Rn5Tapv/UX-UI-2026-TechTok-Research-boards?node-id=1-6)
 
 ## What was completed
 

@@ -7,7 +7,7 @@ neptun: NEPTUN
 
 > **Participants are AI-simulated** (approved by the instructor). See [SIMULATED-PARTICIPANTS.md](../../project/docs/research/SIMULATED-PARTICIPANTS.md). Findings are plausible, not observed, and are marked [SIM].
 
-**FigJam board:** FIGJAM_LINK (section "HW02 – Research")
+**FigJam board:** [HW02 – Research](https://www.figma.com/board/W4Gs0oGtEFQ4dl8Rn5Tapv/UX-UI-2026-TechTok-Research-boards?node-id=2-124)
 
 ## What was completed
 

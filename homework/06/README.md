@@ -5,7 +5,7 @@ neptun: NEPTUN
 
 # HW06 – Low-fi wireframes
 
-**Figma file:** FIGMA_LINK (page "HW06 – Wireframes")
+**Figma file:** [HW06 – Wireframes](https://www.figma.com/design/TLbUCP4baTpzxXn01RrSLI/UX-UI-2026-TechTok-Design?node-id=2-2) (wireframe components in the section "wf components")
 
 ## What was completed
 

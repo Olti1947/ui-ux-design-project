@@ -5,7 +5,7 @@ neptun: NEPTUN
 
 # HW05 – Information architecture and user flow
 
-**FigJam board:** FIGJAM_LINK (section "HW05 – IA & flow")
+**FigJam board:** [HW05 – IA & flow](https://www.figma.com/board/W4Gs0oGtEFQ4dl8Rn5Tapv/UX-UI-2026-TechTok-Research-boards?node-id=4-530)
 
 ## What was completed
 
