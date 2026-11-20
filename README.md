@@ -1,6 +1,6 @@
 ---
-name: OLT_FULL_NAME
-neptun: NEPTUN
+name: OLT BAJRAMI
+neptun: P3FEII
 ---
 
 # UX/UI Design – course repository
