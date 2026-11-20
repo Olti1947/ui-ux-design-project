@@ -1,6 +1,6 @@
 ---
 week: 01
-neptun: NEPTUN
+neptun: P3FEII
 ---
 
 # HW01 – Finding an idea and exploring the problem

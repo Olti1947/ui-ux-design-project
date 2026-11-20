@@ -1,6 +1,6 @@
 ---
 week: 07
-neptun: NEPTUN
+neptun: P3FEII
 ---
 
 # HW07 – Clickable prototype and first feedback

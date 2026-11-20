@@ -1,7 +1,7 @@
 <!--@slide Title-->
 # A few good reads, then you're done for today
 
-TechTok (working title) · UX/UI Design · OLT_FULL_NAME
+TechTok (working title) · UX/UI Design · Olt Bajrami
 
 ---
 

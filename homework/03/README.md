@@ -1,6 +1,6 @@
 ---
 week: 03
-neptun: NEPTUN
+neptun: P3FEII
 ---
 
 # HW03 – Usability and accessibility audit

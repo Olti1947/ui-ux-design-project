@@ -1,6 +1,6 @@
 # About the participants in this project
 
-**All participants in this project are AI-simulated.** No real person was interviewed or tested. The course instructor approved this on 2026-11-19 (OLT: add the instructor's name).
+**All participants in this project are AI-simulated.** No real person was interviewed or tested. The course instructor approved this on 2026-11-19 (instructor: Laborczi Gergely).
 
 How it was done: each participant was given a fixed profile (age range, field of study, phone habits). An AI model then played that participant, answering the same scripts a real participant would get: the [interview and label-check script](session-a-script.md) and the usability-test tasks in HW07 and HW08. The answers are recorded as anonymized notes with codes `SIM-P1` … `SIM-P6`.
 

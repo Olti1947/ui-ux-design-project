@@ -1,6 +1,6 @@
 ---
 week: 06
-neptun: NEPTUN
+neptun: P3FEII
 ---
 
 # HW06 – Low-fi wireframes

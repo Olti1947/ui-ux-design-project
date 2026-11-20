@@ -1,6 +1,6 @@
 ---
 week: 05
-neptun: NEPTUN
+neptun: P3FEII
 ---
 
 # HW05 – Information architecture and user flow

@@ -1,6 +1,6 @@
 ---
 week: 04
-neptun: NEPTUN
+neptun: P3FEII
 ---
 
 # HW04 – Problem definition and opportunity search

@@ -1,6 +1,6 @@
 ---
 week: 02
-neptun: NEPTUN
+neptun: P3FEII
 ---
 
 # HW02 – User research, persona and journey
