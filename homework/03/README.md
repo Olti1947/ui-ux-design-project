@@ -7,7 +7,7 @@ neptun: NEPTUN
 
 > **Status: draft. Each finding has to be confirmed on the phone, with a screenshot.** The findings below are what an expert review of this kind of app typically finds. They are written as hypotheses to check. Keep only what you actually see (6 are required) and delete the rest. Finding A2 must be checked by hand (see "Manual check").
 
-**Figma file:** FIGMA_LINK (page "HW03 Audit · HW10 Slides")
+**Figma file:** [HW03 Audit · HW10 Slides](https://www.figma.com/design/TLbUCP4baTpzxXn01RrSLI/UX-UI-2026-TechTok-Design?node-id=1-3) (section "HW03 – Audit")
 
 ## Context
 
