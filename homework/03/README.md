@@ -50,14 +50,14 @@ Severity: 1 = cosmetic, 2 = minor, 3 = major, 4 = blocks the task.
 
 ## States of the audited task
 
-| State | Present? (check) | Note |
+| State | Present? | What I saw on the phone (2026-11-20) |
 | --- | --- | --- |
-| Normal | ✔ | Card feed |
-| Loading | ? | Is there a skeleton or spinner when cards load slowly? (Test in airplane mode → off.) |
-| Empty | ? | Probably never, because the feed is endless. That is the problem itself. |
-| Error | ? | Airplane mode on: is there a message and a retry, or a blank card? |
-| Success | weak | Opening the article just jumps to a web view. There's no confirmation of where you are or how to come back. |
-| Disabled | ? | Any greyed controls, for example bookmark when logged out? |
+| Normal | ✔ | Card feed: image, headline, ~60-word summary, meta row, "Tap to know more" bar ([U1](screenshots/u1-read-more.jpg), [U2](screenshots/u2-meta-row.jpg)). |
+| Loading | – not observed | Cards were already cached, so no skeleton or spinner appeared during the test. |
+| Empty | ✘ none | There is no empty or "you're up to date" state: after 30 swipes new cards keep coming ([U3](screenshots/u3-endless-feed.jpg)). That is the problem itself. |
+| Error | ✔ weak | In airplane mode the text still shows (cached), but the image area says only "Couldn't load Media · Tap to refresh". It doesn't say why (offline) ([A1](screenshots/a1-contrast.jpg)). |
+| Success | weak | Opening the article jumps to a web view. There's no confirmation of where you are or how to come back. |
+| Disabled | ✔ (unclear) | On the offline card the "Tap to know more / Tap here" bar fades to 1.49:1 contrast, so it looks disabled, but there is no label saying it is unavailable offline ([A1](screenshots/a1-contrast.jpg)). |
 
 ## Persona update
 
