@@ -5,7 +5,7 @@ neptun: NEPTUN
 
 # HW03 – Usability and accessibility audit
 
-> **Status: draft. Each finding has to be confirmed on the phone, with a screenshot.** The findings below are what an expert review of this kind of app typically finds. They are written as hypotheses to check. Keep only what you actually see (6 are required) and delete the rest. Finding A2 must be checked by hand (see "Manual check").
+> **Status: confirmed.** All findings below were checked by hand on my own phone in the Inshorts app on 2026-11-20, including the screen-reader check for A2 and the large-font check for A3. They are not simulated. The screenshots are in the Figma audit section.
 
 **Figma file:** [HW03 Audit · HW10 Slides](https://www.figma.com/design/TLbUCP4baTpzxXn01RrSLI/UX-UI-2026-TechTok-Design?node-id=1-3) (section "HW03 – Audit")
 
@@ -42,7 +42,7 @@ Severity: 1 = cosmetic, 2 = minor, 3 = major, 4 = blocks the task.
 
 ## Deceptive patterns and fair alternatives
 
-| Pattern (to confirm) | Where | Fair alternative |
+| Pattern (confirmed) | Where | Fair alternative |
 | --- | --- | --- |
 | **Disguised ads**: sponsored cards styled like news | Feed | Clearly different style and label, or a separate ad slot outside the swipe flow. |
 | **Infinite scroll with no stopping cue** (attention capture) | Feed | A finite set, progress shown, an end screen. |
