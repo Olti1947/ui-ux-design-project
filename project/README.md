@@ -25,7 +25,7 @@
 
 ## GitHub Projects
 
-Kanban board: KANBAN_BOARD_URL
+Kanban board: [UX/UI 2026 – TechTok (GitHub Project)](https://github.com/users/Olti1947/projects/4/views/1)
 
 ## Additional documents
 
